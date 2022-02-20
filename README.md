@@ -14,7 +14,7 @@ We can use this code to detect weeds in agriculture lands.
 
 ## How i did it ?
 
-I used **YOLO(You Only Look Once)** Real time object detection algorithm to detect weeds. Dataset i used is taken [kaggle](https://www.kaggle.com/) and dataset name is *crop and weed detection data with bounding boxes* ([Link to dataset](https://www.kaggle.com/ravirajsinh45/crop-and-weed-detection-data-with-bounding-boxes)) which contains around *1300 images*. Traning is done in [Goole Colab](https://colab.research.google.com/).
+I used **YOLO(You Only Look Once)** Real time object detection algorithm to detect weeds. Dataset i used is taken from [kaggle](https://www.kaggle.com/) and dataset name is *crop and weed detection data with bounding boxes* ([Link to dataset](https://www.kaggle.com/ravirajsinh45/crop-and-weed-detection-data-with-bounding-boxes)) which contains around *1300 images*. Traning is done in [Goole Colab](https://colab.research.google.com/).
 
 ## How to use ?
 Structure of the repository

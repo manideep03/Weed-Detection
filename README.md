@@ -33,7 +33,7 @@ Structure of the repository
 
 Clone the repo and Upload Traning file in google drive and open ipynb file in colab and then you can change the parameters and you can play with the code.
 
-For testing and for using the project download weights from the [link](https://mega.nz/file/aQ8nQAJB#ySPZoRg2-2SZhH2Cn9P4VZkh56fUF8mzLOaCWjHLlNY) and paste it in testing folder.
+For testing and for using the project download weights from the [link](https://mega.nz/file/LIcFWZhb#XZ9YACBuAz2jeiklyqiDN1AGyDbfvztacRIlar9wP7k) and paste it in testing folder.
 
 In testing folder we have two files use ***detect_image.py*** to detect in image and use ***detect_video.py*** for detecting in video and with webcame access.
 
